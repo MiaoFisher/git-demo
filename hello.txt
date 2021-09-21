@@ -10,3 +10,4 @@ can you hear me how to do? master test
 can you hear me how to do? hot-fix
 git update
 update the second times
+change the make you can use the ssh
